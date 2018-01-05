@@ -1,0 +1,100 @@
+[
+    {
+        "funList": [
+            {
+                "childFuncName": "总务录入",
+                "childId": 2,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "员工管理",
+        "id": 1,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "人事调配",
+                "childId": 5,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "员工管理",
+        "id": 1,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "宿舍调配",
+                "childId": 7,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "宿舍管理",
+        "id": 6,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "员工借用",
+                "childId": 8,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "宿舍管理",
+        "id": 6,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "员工通报",
+                "childId": 9,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "宿舍管理",
+        "id": 6,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "闻博轩",
+                "childId": 10,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "宿舍管理",
+        "id": 6,
+        "roleList": [],
+        "url": ""
+    },
+    {
+        "funList": [
+            {
+                "childFuncName": "静雅苑",
+                "childId": 11,
+                "childUrl": "",
+                "roleList": []
+            }
+        ],
+        "funcName": "宿舍管理",
+        "id": 6,
+        "roleList": [],
+        "url": ""
+    }
+]
